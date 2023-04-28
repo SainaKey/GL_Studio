@@ -16,7 +16,7 @@
   \*********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _sub__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./sub */ \"./src/sub.ts\");\n\nvar message = \"Hello World\";\n// sub.jsに定義されたJavaScriptを実行する。\n(0,_sub__WEBPACK_IMPORTED_MODULE_0__.hello)(message);\n\n\n//# sourceURL=webpack://gl_studio/./src/main.ts?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _sub__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./sub */ \"./src/sub.ts\");\n\nvar message = \"Hello TypeScript\";\n// sub.jsに定義されたJavaScriptを実行する。\n(0,_sub__WEBPACK_IMPORTED_MODULE_0__.hello)(message);\n\n\n//# sourceURL=webpack://gl_studio/./src/main.ts?");
 
 /***/ }),
 
